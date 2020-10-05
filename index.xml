@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cedar Gallery</title>
+    <link>provision-software.github.io/cedar-gallery/</link>
+    <description>Recent content on Cedar Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="provision-software.github.io/cedar-gallery/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
