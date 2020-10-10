@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cedar Gallery</title>
-    <link>provision-software.github.io/cedar-gallery/tags/</link>
+    <link>www.cedar-gallery.com/tags/</link>
     <description>Recent content in Tags on Cedar Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="provision-software.github.io/cedar-gallery/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="www.cedar-gallery.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
